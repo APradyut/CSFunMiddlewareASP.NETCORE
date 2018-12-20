@@ -1,0 +1,14 @@
+C:\Users\Closerlook\source\repos\TrialMiddleware\TrialMiddleware\bin\Debug\netcoreapp2.1\TrialMiddleware.deps.json
+C:\Users\Closerlook\source\repos\TrialMiddleware\TrialMiddleware\bin\Debug\netcoreapp2.1\TrialMiddleware.runtimeconfig.json
+C:\Users\Closerlook\source\repos\TrialMiddleware\TrialMiddleware\bin\Debug\netcoreapp2.1\TrialMiddleware.runtimeconfig.dev.json
+C:\Users\Closerlook\source\repos\TrialMiddleware\TrialMiddleware\bin\Debug\netcoreapp2.1\TrialMiddleware.dll
+C:\Users\Closerlook\source\repos\TrialMiddleware\TrialMiddleware\bin\Debug\netcoreapp2.1\TrialMiddleware.pdb
+C:\Users\Closerlook\source\repos\TrialMiddleware\TrialMiddleware\obj\Debug\netcoreapp2.1\TrialMiddleware.csprojAssemblyReference.cache
+C:\Users\Closerlook\source\repos\TrialMiddleware\TrialMiddleware\obj\Debug\netcoreapp2.1\TrialMiddleware.csproj.CoreCompileInputs.cache
+C:\Users\Closerlook\source\repos\TrialMiddleware\TrialMiddleware\obj\Debug\netcoreapp2.1\TrialMiddleware.RazorAssemblyInfo.cache
+C:\Users\Closerlook\source\repos\TrialMiddleware\TrialMiddleware\obj\Debug\netcoreapp2.1\TrialMiddleware.RazorAssemblyInfo.cs
+C:\Users\Closerlook\source\repos\TrialMiddleware\TrialMiddleware\obj\Debug\netcoreapp2.1\TrialMiddleware.AssemblyInfoInputs.cache
+C:\Users\Closerlook\source\repos\TrialMiddleware\TrialMiddleware\obj\Debug\netcoreapp2.1\TrialMiddleware.AssemblyInfo.cs
+C:\Users\Closerlook\source\repos\TrialMiddleware\TrialMiddleware\obj\Debug\netcoreapp2.1\TrialMiddleware.RazorTargetAssemblyInfo.cache
+C:\Users\Closerlook\source\repos\TrialMiddleware\TrialMiddleware\obj\Debug\netcoreapp2.1\TrialMiddleware.dll
+C:\Users\Closerlook\source\repos\TrialMiddleware\TrialMiddleware\obj\Debug\netcoreapp2.1\TrialMiddleware.pdb
